@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Sarvesh, a passionate MERN stack developer with a love for building web applications. I enjoy solving problems and continuously learning new technologies. Check out my repos to see what I'm working on!
+Hi there! 👋
+I'm Sarvesh, a Full-Stack Developer with experience in both MERN (MongoDB, Express.js, React, Node.js) and Java-based(Spring, Spring boot) technologies. I've worked on various projects, from building scalable web applications to developing APIs and optimizing performance. I’m passionate about clean code, problem-solving, and continuously learning new tools and frameworks. Feel free to explore my repos to see what I’ve been working on!
 
 
 ## 🌐 Socials:
